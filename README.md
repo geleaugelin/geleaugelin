@@ -1,8 +1,8 @@
 <h1>Hi, I'm Geleau! Motivated Cybersecurity Analyst
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creatin a Live SOC/ Honeynet in Azure](https://github.com/geleaugelin/Cloud-Security-Operations)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
