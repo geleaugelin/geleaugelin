@@ -7,9 +7,13 @@
 
 <h2>📺 My YouTube Videos</h2>
 - [Installing and Configuring a Domain Controller with Active Directory on Server 2019 (PowerShell)](https://www.youtube.com/watch?v=sJ7fCTvCWUQ)
+
 - [Creating and Connecting to Virtual Machines in Azure Step by Step Guide](https://www.youtube.com/watch?v=etbX_e3fRHQ&t=221s)
+
 - [Mastering Microsoft 365 Exchange A quick Step by Step Guide](https://www.youtube.com/watch?v=jEhbDZB54_0&t=331s)
+
 - [Creating Users and Groups in Microsoft Azure](https://www.youtube.com/watch?v=FllUg6C3kZs&t=178s)
+
 - [G Tech IT Labs Bulk User Creation Tutorial](https://www.youtube.com/watch?v=__Yk8EfV2tQ&t=240s)
 
 
