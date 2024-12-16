@@ -6,7 +6,9 @@
   - [Creatin a Live SOC/ Honeynet in Azure](https://github.com/geleaugelin/Cloud-Security-Operations)
 
 <h2>📺 My YouTube Videos</h2>
+
 - [Installing and Configuring a Domain Controller with Active Directory on Server 2019 (PowerShell)](https://www.youtube.com/watch?v=sJ7fCTvCWUQ)
+
 
 - [Creating and Connecting to Virtual Machines in Azure Step by Step Guide](https://www.youtube.com/watch?v=etbX_e3fRHQ&t=221s)
 
